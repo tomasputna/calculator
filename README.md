@@ -2,7 +2,7 @@
 
 Pro spuštění kalkulačky stačí tento zdrojový kód uložit jako soubor s příponou .py a poté spustit v Pythonu.
 
-`python
+```python
 def add(x, y):
     return x + y
 
@@ -43,4 +43,4 @@ while True:
     else:
         print("Nesprávná volba.")
 
-`
+```
